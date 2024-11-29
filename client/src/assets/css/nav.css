@@ -1,0 +1,39 @@
+.allpage{
+    width: 65vh;
+}
+.fullwidth{
+    display: flex;
+    justify-content: space-around;
+    
+    width: 80vh;
+}
+.card-dtl{
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+}
+.card-child-1{
+    background-image: url(../images/EXPLORE1.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.card-child-2{
+    background-image: url(../images/EXPLORE2.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.card-child-3{
+    background-image: url(../images/EXPLORE4.jpg);
+    background-size:cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+
+.topers{
+    width: 30vh;
+}
